@@ -6,8 +6,6 @@ Write a class with the name <b>Person</b>. The class needs three fields (instanc
 
 Write the following methods (instance methods):
 
-### Examples of input/output
-
 <ul>
 <li>Method named <b>getFirstName</b> without any parameters, it needs to return the value of the <b>firstName</b> field.</li>
 <li>Method named <b>getLastName</b> without any parameters, it needs to return the value of the <b>lastName</b> field.</li>
